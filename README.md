@@ -7,11 +7,7 @@ Welcome to the SQL Learning Hub! This project is designed to help SQL beginners 
 
 To begin your SQL learning journey, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Install the required libraries and dependencies. You can do this by running the following command:
-
-   ```bash
-   pip install -r requirements.txt
+- Clone this repository to your local machine.
    
    
 ## Database Creation
